@@ -1,0 +1,15 @@
+.main {
+  background-color: rgb(245, 245, 245);
+  min-height: 100vh;
+  position: relative;
+}
+
+.main__autocomplete {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
